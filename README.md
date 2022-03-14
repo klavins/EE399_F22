@@ -28,6 +28,8 @@
   - Subtractive synthesis
   - Wavetable synthesis
   - Physical modeling
+    - Digital Waveguide synthesis
+    - Finite difference method
   - Speech syntesis (maybe)
     - Formant synthesis
   - ...
@@ -44,4 +46,9 @@
   - MIDI
   - Digital to Analog conversion
 
+Suggested Textbooks
+---
+
+- "Physical Audio Signal Processing for Virtual Musical Instruments and Audio Effects" by Julius O. Smith. Availale [here](https://ccrma.stanford.edu/~jos/pasp/pasp.html).
+- "Numerical Sound Synthesis" by Stefan Bilbao. Availabe [here](https://ccrma.stanford.edu/~bilbao/nssold/booktoplast).
 
